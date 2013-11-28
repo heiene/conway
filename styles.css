@@ -1,0 +1,41 @@
+#c {
+    border: dashed darkblue 1px;
+
+
+}
+
+#left {
+    width: 100px;
+    height: 300px;
+    border: dashed brown 1px;
+    float:left;
+
+}
+
+#right {
+    width: 100px;
+    height: 300px;
+    border: dashed #a5147c 2px;
+
+}
+
+#header {
+
+}
+
+#bottom {
+
+}
+#running {
+    visibility: hidden;
+}
+li {
+    list-style: none;
+}
+div {
+    float: left;
+
+}
+section {
+    float:  left;
+}
